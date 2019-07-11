@@ -26,7 +26,7 @@ Application papers listed here will be mainly from the field of ovarian cancer.
 
 Paper | Description
 :---- | :----------
-[Hu et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/672626v1) | 
+[Hu et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/672626v1) | Non-genetic heterogeneity (NGH) within tumors (i.e. heterogeneity related to different cell types, as opposed to genetic heterogeneity due to mutations) is associated with tumor resilience but difficult to quantify. The authors perform scRNA-seq on 4000 normal fallopian tube epithelial (FTE) cells from 11 donors to identify 6 FTE subpopulations; FTE cells are the cells of origin for serous ovarian cancer (SOC). They then use the gene expression signatures of 5 FTE subtypes to deconvolve SOC expression data from bulk samples to identify NGH within tumors, and stratify subtypes of SOC based on NGH. Cell types within the scRNA-seq data are identified by clustering and differential expression based annotation according to known marker genes (note they used a customized clustering algorithm). Deconvolution is done using the CIBERSORT algorithm. The stratified SOC subtypes are shown to predict survival in a dataset of 1700 bulk tumor samples from The Cancer Genome Atlas (TCGA) and Australian Ovarian Cancer Study (AOCS). An open question is whether NGH is due to multiple cell types of origin for the tumor, or due to differentiation within the tumor, or a combination of both.
 [Schwede et al. (2018), bioRxiv](https://www.biorxiv.org/content/10.1101/496406v1) | 
 
 
