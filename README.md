@@ -15,6 +15,7 @@ CIBERSORTx | [Newman et al. (2019), Nature Biotechnology](https://www.nature.com
 DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | [R package](https://bitbucket.org/yuanlab/dwls/src/default/) from BitBucket. | 
 Bisque | [Jew et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/669911v1) | [R package](https://github.com/cozygene/bisque) from GitHub. | 
 Scaden | [Menden et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/659227v1) | [Python 3 package](https://github.com/KevinMenden/scaden) from Bioconda and PyPI. | 
+MuSiC | [Wang et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-018-08023-x) | [R package](https://github.com/xuranw/MuSiC) from GitHub. | 
 
 
 
