@@ -11,8 +11,8 @@ The list is organized into two parts: (i) method papers describing algorithms, a
 Method | Reference | Availability | Comments
 :----- | :-------- | :----------- | :-------
 CIBERSORT | [Newman et al. (2015), Nature Methods](https://www.nature.com/articles/nmeth.3337) | [Online tool](https://cibersort.stanford.edu/index.php) requiring signup and login. | Requires input matrix of reference gene expression signatures for cell types. Methodology is based on linear support vector regression, which also performs feature selection on the genes in the signature matrix. Also returns overall p-value for null hypothesis that no cell types from the signature matrix are present. Extensive benchmarking on datasets with both simulated and experimental (e.g. flow sorted) ground truth, and comparison against several earlier methods (using microarray data only). Currently appears to be the most widely used tool.
-Bisque | [Jew et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/669911v1) | e.g. R package from ... | text text text text text <br> text text text text text text text text text text text text text text text text text text text text text text text text text text text text
-DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | e.g. R package from ... | text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+Bisque | [Jew et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/669911v1) | | 
+DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | | 
 
 
 
