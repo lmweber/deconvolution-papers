@@ -10,7 +10,12 @@ The list is organized into two parts: (i) method papers describing new algorithm
 Method | Reference | Comments
 :---------- | :-------- | :-------
 Bisque | [Jew et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/669911v1) | text text text text \ text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
-DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | text text <br> text text text <br> text text text text text text text text text text text text text text text text text text text text text text text
+DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | text text <br>
+text text text <br>
+text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | text text <br>
+text text text <br>
+text text text text text text text text text text text text text text text text text text text text text text text
 
 
 
