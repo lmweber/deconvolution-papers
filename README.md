@@ -22,3 +22,11 @@ Scaden | [Menden et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101
 
 Application papers listed here will be mainly from the field of ovarian cancer.
 
+
+Paper | Description
+:---- | :----------
+[Hu et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/672626v1) | 
+[Schwede et al. (2018), bioRxiv](https://www.biorxiv.org/content/10.1101/496406v1) | 
+
+
+
