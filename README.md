@@ -1,8 +1,8 @@
 # deconvolution-papers
 
-A number of algorithms have recently been developed for deconvolution of cell types in bulk RNA-seq samples based on cell type signatures derived from single-cell RNA-seq data. This repository contains a list of recent algorithms and application papers, along with our comments on them.
+A number of algorithms have recently been developed for deconvolution of cell types in bulk RNA-seq samples based on cell type signatures derived from single-cell RNA-seq data. This repository contains a list of recent algorithms, benchmark papers, and application papers, along with our comments on them.
 
-The list is organized into two parts: (i) method papers describing algorithms, and (ii) application papers. The list will be added to over time.
+The list is organized into three parts: (i) method papers describing algorithms, (ii) benchmark papers, and (iii) application papers. The list will be added to over time.
 
 
 
@@ -16,6 +16,17 @@ CIBERSORTx | [Newman et al. (2019), Nature Biotechnology](https://www.nature.com
 DWLS | [Tsoucas et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-019-10802-z) | [R package](https://bitbucket.org/yuanlab/dwls/src/default/) from BitBucket. | 
 MuSiC | [Wang et al. (2019), Nature Communications](https://www.nature.com/articles/s41467-018-08023-x) | [R package](https://github.com/xuranw/MuSiC) from GitHub. | 
 Scaden | [Menden et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/659227v1) | [Python 3 package](https://github.com/KevinMenden/scaden) from Bioconda and PyPI. | 
+
+
+
+## Benchmark papers
+
+Papers describing existing benchmarking studies comparing some of the above methods.
+
+
+Paper | Description
+:---- | :----------
+[Sturm et al. (2019), Bioinformatics](https://academic.oup.com/bioinformatics/article/35/14/i436/5529146#.XS2eAAl_aaE.twitter) | Benchmark with reproducible code provided as a Snakemake pipeline. Uses datasets consisting of immune cell populations in the tumor microenvironment (TME).
 
 
 
