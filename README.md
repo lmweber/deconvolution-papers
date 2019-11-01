@@ -28,6 +28,7 @@ Papers describing existing benchmarking studies comparing some of the above meth
 Paper | Description
 :---- | :----------
 [Sturm et al. (2019), Bioinformatics](https://academic.oup.com/bioinformatics/article/35/14/i436/5529146#.XS2eAAl_aaE.twitter) | Benchmark with reproducible code provided as a Snakemake pipeline. Uses datasets consisting of immune cell populations in the tumor microenvironment (TME).
+[Huang et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/827139v1) | Benchmarked 8 methods developed for single-cell RNA-seq (Seurat, scmap, SingleR, CHETAH, SingleCellNet, scID, Garnett, SCINA) and 2 for DNAm (Linear Constrained Projection (CP) and Robust Partial Correlations (RPC))
 
 
 
