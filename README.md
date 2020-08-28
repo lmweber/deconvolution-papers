@@ -27,6 +27,7 @@ Papers describing existing benchmarking studies comparing some of the above meth
 
 Paper | Description
 :---- | :----------
+[Patrick et al. (2020), PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008120) | Benchmark of deconvolution algorithms to estimate cell type proportions in brain tissue. Experimentally generated immunohistochemistry (IHC) benchmark dataset (5 major cell types, 70 individuals, with matched bulk cortical gene expression data). Deconvolution algorithms are run using known marker gene sets. Algorithms in benchmark include: NNLS, CIBERSORT, dtangle, DSA, MuSiC, BSEQ-sc.
 [Sturm et al. (2019), Bioinformatics](https://academic.oup.com/bioinformatics/article/35/14/i436/5529146#.XS2eAAl_aaE.twitter) | Benchmark with reproducible code provided as a Snakemake pipeline. Uses datasets consisting of immune cell populations in the tumor microenvironment (TME).
 [Huang et al. (2019), bioRxiv](https://www.biorxiv.org/content/10.1101/827139v1) | Benchmarked 8 methods developed for single-cell RNA-seq (Seurat, scmap, SingleR, CHETAH, SingleCellNet, scID, Garnett, SCINA) and 2 for DNAm (Linear Constrained Projection (CP) and Robust Partial Correlations (RPC))
 
